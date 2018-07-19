@@ -36,6 +36,10 @@ a {
   margin-left: 110px;
 }
 
+.standout {
+  color: #4B0082 !important;
+  background: none;
+}
 header {
   height: 80vh;
   position: relative;
