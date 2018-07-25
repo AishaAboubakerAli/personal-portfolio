@@ -6,6 +6,7 @@ Here's some quick starter files you can use to build your personal website.
 1. Install the GitHub Desktop GUI (https://desktop.github.com/)
 2. Sign up / log in to your GitHub account (both on the web as well as in the GUI).
 3. Download the <a href="https://atom.io/">Atom</a> text editor or use the editor of your choice.
+4. I just wrote this
 
 ## Together
 1. Fork this repository by <a href="https://github.com/swbloom/personal-portfolio">clicking here</a> and pressing 'Fork' in the top right corner of the screen.
@@ -16,7 +17,7 @@ Here's some quick starter files you can use to build your personal website.
 ## On your own
 1. Inside `index.html` you will see all the text you can change. Feel free to change this to whatever you want.
 2. For help with headings, images, colors, and fonts, talk to the mentors!
-3. Inside `style.css`, you will be able to control all the colours, font sizes, etc! 
+3. Inside `style.css`, you will be able to control all the colours, font sizes, etc!
 
 ### Some helpful resources to work on your site
 - For a list of **basic HTML tags**, <a href="https://www.w3schools.com/tags/ref_byfunc.asp">click here</a>
